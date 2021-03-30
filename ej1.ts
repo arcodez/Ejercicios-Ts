@@ -1,5 +1,5 @@
-function Hola(nombre:String) {
-    console.log("Hola ", nombre)
-}
+let text = "Hola que tal bienvenidos a Arcodez. si os esta gustando este ejercicio, dale estrellita y sigueme para que algun dia puedan contratarme"
 
-Hola("Abel")
+function wordRepetitions(text:String) {
+    console.log(text)
+}
